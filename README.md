@@ -5,3 +5,5 @@ Parses a variety of data sources to build a little dashboard, showing interactio
 - Followers (updated once every 24 hours by cron job running the update script)
 - Click counts/geostats on profile link (via Bitly API)
 - Breakdown of successful/unsuccessful requests made to the bot (via logs stored elsewhere)
+
+Runs as a plotly app from the commandline.
